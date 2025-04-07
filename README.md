@@ -1,10 +1,3 @@
-Let's update your **PNPC README** to reflect the new tech stack — removing PHP and MySQL, and switching over to **HTML, CSS, JavaScript, JSX, and Firebase** for backend services.
-
-Here's the revised version of your README:
-
----
-
-### ✅ Updated: PNPC Chat App with Firebase (No PHP, No MySQL)
 
 ```markdown
 # 💬 PNPC - Private N' Personal Chat Web App
